@@ -1,6 +1,8 @@
 from pydantic import BaseModel, EmailStr, validator
 
 # Pydantic is a Type Validtion Module for python
+# --- CHATGPT: Pydantic is a data validation and parsing library for Python.
+# Parsing means Translate Data from One Format to Other.
 # Python has dynamic type for variables, We can change  the type of variable during execution as well
 # Pydantic provides a structure in which we can Fix the Data Types
 
